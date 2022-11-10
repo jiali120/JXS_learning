@@ -24,3 +24,32 @@ var h1=document.createElement("h1");
 h1.innerHTML = "Hello";
 document.getElementById("root").appendChild(h1);
 */
+
+
+
+
+
+/*
+practice
+//Create a react app from scratch.
+//It should display a h1 heading.
+//It should display an unordered list (bullet points).
+//It should contain 3 list elements.
+
+import React from "react";
+import ReactDOM from "react-dom";
+
+ReactDOM.render(
+  <div>
+    <h1>My Favourite Books</h1>
+    <ul>
+      <li>Bacon</li>
+      <li>Jamon</li>
+      <li>Apple</li>
+    </ul>
+  </div>,
+  document.getElementById("root")
+);
+
+
+*/
