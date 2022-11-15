@@ -8,3 +8,7 @@ Created with CodeSandbox:    https://codesandbox.io/s/javascript-expressions-in-
 2. html attributes: https://www.w3schools.com/tags/ref_standardattributes.asp 
 3. windows : Alt key Click which same part of 3 rows you want to choose 
 4. css properties: https://www.w3schools.com/cssref/css4_pr_accent-color.php
+
+
+# React Components
+* components really allow us to split up a large file or a complex web structure into smaller components.
