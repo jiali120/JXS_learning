@@ -12,3 +12,8 @@ Created with CodeSandbox:    https://codesandbox.io/s/javascript-expressions-in-
 
 # React Components
 * components really allow us to split up a large file or a complex web structure into smaller components.
+
+
+###### for using react and react-dom dependencies we need to write:
+* var React = require("react");
+* var reactDOM = require("react-dom");
