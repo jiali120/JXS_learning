@@ -15,10 +15,10 @@ Created with CodeSandbox:    https://codesandbox.io/s/javascript-expressions-in-
 
 
 ###### for using react and react-dom dependencies we need to write:
-* var React = require("react");
-* var ReactDOM = require("react-dom");
+* var React = require("react"); or import React from "react";
+* var ReactDOM = require("react-dom"); or import ReactDOM from "react-dom";
 * ReactDOM.render(WHAT TO SHOW, WHERE TO SHOW IT);
-* For example: reactDOM.render(<h1>Hello</h1>, doucument.getElementById("root"));
+* For example: reactDOM.render(<h1>Hello Cat</h1>, doucument.getElementById("root"));
 
 ##babel is js compiler
 * https://babeljs.io/
