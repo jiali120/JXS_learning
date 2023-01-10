@@ -18,4 +18,7 @@ Created with CodeSandbox:    https://codesandbox.io/s/javascript-expressions-in-
 * var React = require("react");
 * var ReactDOM = require("react-dom");
 * ReactDOM.render(WHAT TO SHOW, WHERE TO SHOW IT);
-** For example: reactDOM.render(<h1>Hello</h1>, doucument.getElementById("root"));
+* For example: reactDOM.render(<h1>Hello</h1>, doucument.getElementById("root"));
+
+##babel is js compiler
+* https://babeljs.io/
