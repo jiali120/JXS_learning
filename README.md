@@ -16,4 +16,6 @@ Created with CodeSandbox:    https://codesandbox.io/s/javascript-expressions-in-
 
 ###### for using react and react-dom dependencies we need to write:
 * var React = require("react");
-* var reactDOM = require("react-dom");
+* var ReactDOM = require("react-dom");
+* ReactDOM.render(WHAT TO SHOW, WHERE TO SHOW IT);
+** For example: reactDOM.render(<h1>Hello</h1>, doucument.getElementById("root"));
